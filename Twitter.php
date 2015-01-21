@@ -1,6 +1,6 @@
 <?php 
 $headerstuff = NULL;
-$pageTitle = "MPA Robotics - Twitter Feed";
+$pageTitle = "Someones Twitter - Twitter Feed";
 include('header.php');
 ?>
 
@@ -37,7 +37,7 @@ new TWTR.Widget({
     avatars: true,
     behavior: 'all'
   }
-}).render().setUser('MPARobotics').start();
+}).render().setUser('ThatOneGuy').start();
 </script>
 </div>
 <div style="float:right;">
