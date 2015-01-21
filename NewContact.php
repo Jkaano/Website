@@ -1,6 +1,6 @@
 <?php 
 $headerstuff = NULL;
-$pageTitle = "MPA Robotics - Contact";
+$pageTitle = "2501 Robotics - Contact";
 include('header.php');
 ?>
 
@@ -8,7 +8,7 @@ include('header.php');
 
 <div id="title">
 
-<h1>Contact MPA Robotics</h1>
+<h1>Contact 2501 Robotics</h1>
 <hr />
 </div>
 <br />
