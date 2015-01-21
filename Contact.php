@@ -69,10 +69,10 @@ Email: FRCTeam2501@gmail.com
 <br />');
 }
 else {
-     if (mail('colson13@moundsparkacademy.org','MPA Robotics mail from '.$_POST[name],wordwrap($_POST[message], 70),'From: '.$_POST[email])) {
+     if (mail('FRCTeam2501@gmail.com','NSP Robotics Mail from '.$_POST[name],wordwrap($_POST[message], 70),'From: '.$_POST[email])) {
         echo('<p style="color:white;">Your message has been sent.</p></div>');
      } else {
-        echo('<p>Nope..... totally broken</p></div>');
+        echo('<p>Nope..... totally broken maybe it might be but ya know we might not know tell later</p></div>');
      }
 }
 ?>
