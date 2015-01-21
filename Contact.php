@@ -7,7 +7,7 @@ include('header.php');
 <div id="content">
     <div id="formWrap">
 
-<h1 align="Center">Contact MPA Robotics</h1>
+<h1 align="Center">Contact 2501 Robotics</h1>
 <hr />
 </div>
 <br />
@@ -61,7 +61,7 @@ Address:<br />
 2051 Larpenteur Ave. E. <br />
 North Saint Paul, MN 55128 <br />
 <br />
-Phone: A number that non shall speak of
+Phone: Almost as high as Tims IQ
 </br>
 Email: FRCTeam2501@gmail.com
 <br />
