@@ -1,6 +1,6 @@
 <?php 
 $headerstuff = NULL;
-$pageTitle = "MPA Robotics - Contact";
+$pageTitle = "2501 - Contact";
 include('header.php');
 ?>
 
@@ -57,13 +57,13 @@ echo('
      
 <div style="margin:auto;background:#2166bf;opacity:50%;border-radius:10px;padding:10px;border:2px solid black;color:white;width:400px;">
 Address:<br />
-Mounds Park Academy <br />
+2501 <br />
 2051 Larpenteur Ave. E. <br />
-Saint Paul, MN 55109 <br />
+North Saint Paul, MN 55128 <br />
 <br />
-Phone: 651-777-2555
+Phone: A number that non shall speak of
 </br>
-Email: robotics@moundsparkacademy.org
+Email: FRCTeam2501@gmail.com
 <br />
 </div>
 <br />');
