@@ -1,6 +1,6 @@
 <?php 
 $headerstuff = '<style type="text/css">a{ color:#09F;}</style>';
-$pageTitle = "MPA Robotics - Sponsors";
+$pageTitle = "2501 - Sponsors";
 include('header.php');
 ?>
 
