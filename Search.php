@@ -30,7 +30,7 @@ border:0px;
 
 </style>
 ";
-$pageTitle = "MPA Robotics - Search";
+$pageTitle = "2501 - Search";
 include('header.php');
 flush();
 ?>
